@@ -13,7 +13,9 @@ body {
 .all {
   position: relative;
 }
-
+.ex {
+  padding-top: 10px !important;
+}
 .list {
   color: #969090;
   font-size: 12px;
